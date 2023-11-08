@@ -1,4 +1,7 @@
-http://example.com/about/index.html
-http://example.com/2023/11/07/My-New-Post/
-http://example.com/2023/11/06/hello-world/
+http://example.com/2023/11/08/futher/
+http://example.com/about/
+http://example.com/categories/
+http://example.com/tags/
+http://example.com/archives/
 http://example.com/
+http://example.com/tags/%E7%94%9F%E6%B4%BB/
