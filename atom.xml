@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://tianweiguo.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://tianweiguo.github.io/"/>
   <updated>2023-11-08T15:08:19.648Z</updated>
-  <id>http://example.com/</id>
+  <id>https://tianweiguo.github.io/</id>
   
   <author>
     <name>tien</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>人无远虑 ~</title>
-    <link href="http://example.com/2023/11/08/futher/"/>
-    <id>http://example.com/2023/11/08/futher/</id>
+    <link href="https://tianweiguo.github.io/2023/11/08/futher/"/>
+    <id>https://tianweiguo.github.io/2023/11/08/futher/</id>
     <published>2023-11-08T14:41:35.000Z</published>
     <updated>2023-11-08T15:08:19.648Z</updated>
     
@@ -36,7 +36,7 @@
     
     
     
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://tianweiguo.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   

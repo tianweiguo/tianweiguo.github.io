@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/11/08/futher/</loc>
+    <loc>https://tianweiguo.github.io/2023/11/08/futher/</loc>
     
     <lastmod>2023-11-08</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/</loc>
+    <loc>https://tianweiguo.github.io/about/index.html</loc>
     
     <lastmod>2023-11-08</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://tianweiguo.github.io/categories/index.html</loc>
     
     <lastmod>2023-11-08</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://tianweiguo.github.io/tags/index.html</loc>
     
     <lastmod>2023-11-08</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/archives/</loc>
+    <loc>https://tianweiguo.github.io/archives/index.html</loc>
     
     <lastmod>2023-11-08</lastmod>
     
@@ -48,16 +48,16 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-11-08</lastmod>
+    <loc>https://tianweiguo.github.io/</loc>
+    <lastmod>2023-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-11-08</lastmod>
+    <loc>https://tianweiguo.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

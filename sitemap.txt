@@ -1,7 +1,7 @@
-http://example.com/2023/11/08/futher/
-http://example.com/about/
-http://example.com/categories/
-http://example.com/tags/
-http://example.com/archives/
-http://example.com/
-http://example.com/tags/%E7%94%9F%E6%B4%BB/
+https://tianweiguo.github.io/2023/11/08/futher/
+https://tianweiguo.github.io/about/index.html
+https://tianweiguo.github.io/categories/index.html
+https://tianweiguo.github.io/tags/index.html
+https://tianweiguo.github.io/archives/index.html
+https://tianweiguo.github.io/
+https://tianweiguo.github.io/tags/%E7%94%9F%E6%B4%BB/
